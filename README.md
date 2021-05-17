@@ -1,3 +1,3 @@
 # AutomatizandoSitePhp
 
-##O Projeto https://github.com/kattiusse/SitePhp deve está online
+##O Projeto https://github.com/kattiusse/SitePhp deve estar online
